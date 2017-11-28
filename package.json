@@ -1,0 +1,22 @@
+{
+  "name": "jslib",
+  "version": "1.0.0",
+  "description": "my first lib",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yogadeveloper/jslib.git"
+  },
+  "author": "Shiv Code <yogadevelopers@gmail.com> (http://shivcode.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yogadeveloper/jslib/issues"
+  },
+  "homepage": "https://github.com/yogadeveloper/jslib#readme",
+  "dependencies": {
+    "unique-random-array": "1.0.0"
+  }
+}
